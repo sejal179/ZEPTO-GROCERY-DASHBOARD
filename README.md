@@ -20,5 +20,8 @@ Built a Zepto Grocery Sales Analytics Dashboard in Excel to track sales KPIs, an
 9.	How does fat content impact sales performance?
 10.	Which outlet type has the highest sales and item count?
 
+##Dashboard Interaction
+- <a href= "http://github.com/sejal179/ZEPTO-GROCERY-DASHBOARD/blob/main/Screenshot.png"> ZEPTO GROCERY DASHBOARD </a>
+
 
 
