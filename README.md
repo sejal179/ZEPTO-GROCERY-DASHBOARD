@@ -6,7 +6,7 @@ Project Objective
 Built a Zepto Grocery Sales Analytics Dashboard in Excel to track sales KPIs, analyze outlet performance, understand customer preferences, and support data-driven business decisions.
 
 ## DataSet Used:
-- <a href="(https://github.com/sejal179/ZEPTO-GROCERY-DASHBOARD/blob/main/ZEPTO%20Grocery%20Data%20Excel%20(1).xlsx)"> RAW DATASET </a>
+- <a href="[(https://github.com/sejal179/ZEPTO-GROCERY-DASHBOARD/blob/main/ZEPTO%20Grocery%20Data%20Excel%20(1).xlsx)](https://github.com/sejalguptta/ZEPTO-GROCERY-DASHBOARD/blob/main/ZEPTO%20Grocery%20Data%20Excel%20(1).xlsx)"> RAW DATASET </a>
 
 ## Business Questions
 - What is the total sales revenue generated?
